@@ -46,7 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Compile Include="CommonHelpers.fs" />
     <Compile Include="Problem1.fs" />
+    <Compile Include="Problem2.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>
